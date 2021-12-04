@@ -1,0 +1,21 @@
+R 1920 1080
+NO textures/brick.xpm
+SO textures/brick.xpm
+
+
+SSSO IM A BAD LINE
+
+EA textures/brick.xpm
+WE textures/brick.xpm
+
+S textures/brick.xpm
+
+C 254,36,98
+F 7,32,154
+
+
+
+1   1 1 1   1   1
+101221
+1                                      2211 00101
+1111111111111111111

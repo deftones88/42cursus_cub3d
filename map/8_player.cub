@@ -1,0 +1,19 @@
+R 1920 1080
+NO ./textures/brick.xpm
+
+SO ./textures/brick.xpm
+EA ./textures/brick.xpm
+WE ./textures/brick.xpm
+
+S ./textures/brick.xpm
+
+C 254,36,98
+F 7,32,154
+
+
+
+111111
+100221111
+12010000N1
+1N000000001
+1111111111111111111
