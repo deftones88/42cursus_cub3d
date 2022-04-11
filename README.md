@@ -27,4 +27,4 @@ make bonus; ./cub3d map/bonus.cub
 <br>
 <br>
 
-MARK : ![cub3d](https://badge42.herokuapp.com/api/project/ji-kim/cub3d)
+MARK : [![ji-kim's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl1tzt6ir004409lexcgnnbrw/project/2109290)](https://github.com/JaeSeoKim/badge42)
